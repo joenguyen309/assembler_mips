@@ -1,4 +1,4 @@
-# assembler_mips
+# ASSEMBLER FOR MIPS'ARCHITECTURE USING C++
 Make Assembler for MIPS's Architecture using C++
 
 The instruction in MIPS can covert to Machine Code(MC) :
